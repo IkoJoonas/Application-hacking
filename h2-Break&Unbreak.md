@@ -36,7 +36,7 @@ Nyt näkyvillä oli paljon vähemmän kohtia mistä jatkaa.
 
 <img width="732" height="674" alt="fuzz2" src="https://github.com/user-attachments/assets/302dad7b-b87c-4c28-a6ec-36c5fc7ee510" />
 
-Lisää mällä wp-admin urlin loppuun sain ensimmäisen lipun näkyville.
+Lisäämällä wp-admin urlin loppuun sain ensimmäisen lipun näkyville.
 
 <img width="1280" height="800" alt="VirtualBox_Debian_19_01_2026_18_17_14" src="https://github.com/user-attachments/assets/cf903f08-2b67-4ac9-b6da-32f0100e0a2d" />
 
