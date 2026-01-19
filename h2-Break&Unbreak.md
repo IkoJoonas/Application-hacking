@@ -32,5 +32,5 @@ Huomasin, että lähestulkoon kaikissa näkyi kokona 154, joten filtteröin siit
 
 ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ -fs 154
 
-
+Nyt näkyvillä oli paljon vähemmän kohtia mistä jatkaa. 
 
