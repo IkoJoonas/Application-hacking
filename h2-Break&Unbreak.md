@@ -9,3 +9,9 @@ Tämä onnistui, mutta se ei kuitenkaan oikeaa salasanaa mitä tehtävässä hae
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_12_30_23" src="https://github.com/user-attachments/assets/b44401ec-0b3f-438a-8394-4662314fdf00" />
 
 ONNISTUMINEN! Lippu tuli näkyville salasanakohtaan.
+
+## b)
+
+Korjasin haavoittuvuuden koodista:
+
+<img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_13_26_53" src="https://github.com/user-attachments/assets/20f27e34-1c38-4322-a8b0-333985591b9e" />
