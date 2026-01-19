@@ -25,3 +25,12 @@ Haavoittuvuus ei paljastanut enää lippua.
 ## c)
 
 Käynnistin tehtävän verkkosivun ja suoritin komennon: ./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ
+
+<img width="737" height="497" alt="fuzz1" src="https://github.com/user-attachments/assets/a86f8c0e-25da-42d8-92f5-ccb8ce9ca190" />
+
+Huomasin, että lähestulkoon kaikissa näkyi kokona 154, joten filtteröin siitä komennolla:
+
+./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ -fs 154
+
+
+
