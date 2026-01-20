@@ -26,6 +26,24 @@ CPU: 2
 
 ## x)
 
+OWASP: OWASP Top 10: https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+
+-
+-
+
+Karvinen 2023: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
+
+-
+-
+
+PortSwigger: https://portswigger.net/web-security/access-control
+
+-
+-
+
+Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ 
+
+-
 -
 
 ## a)
