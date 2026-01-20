@@ -40,7 +40,7 @@ Karvinen 2023: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
 
 PortSwigger: https://portswigger.net/web-security/access-control
 
--Pääsynhallinta on rajoitusten soveltamista siihen,vkuka saa tehdä mitäkin tai käyttää mitä resursseja
+-Pääsynhallinta on rajoitusten soveltamista siihen, kuka saa tehdä mitäkin tai käyttää tiettyjä resursseja
 
 -Voidaan estää auditoimalla ja testaamalla pääsynhallintaa perusteellisesti varmistaaksi, että kaikki toimii suunnitellulla tavalla.
 
