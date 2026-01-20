@@ -29,21 +29,25 @@ CPU: 2
 OWASP: OWASP Top 10: https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 
 -Yleistä on URL manipulointi ja admin-sivujen selaaminen ilman asianmukaista autentikointia
+
 -Suojaa palvelinpuolella, älä asiakkaalla
 
 Karvinen 2023: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
 
 -Ffuf on joohoi:n kehittämä webb-fuzzing-työkalu
+
 -Pystyy fuzzaamaan muutakin kuin hakemistoja, kuten parametrejä ja HTTP-otsikoita
 
 PortSwigger: https://portswigger.net/web-security/access-control
 
 -Pääsynhallinta on rajoitusten soveltamista siihen,vkuka saa tehdä mitäkin tai käyttää mitä resursseja
+
 -Voidaan estää auditoimalla ja testaamalla pääsynhallintaa perusteellisesti varmistaaksi, että kaikki toimii suunnitellulla tavalla.
 
 Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ 
 
 -Raportointi tarkoittaa, että kerrot täsmällisesti mitä teit, ja mitä sitten tapahtui.
+
 -Toistettavuus, täsmällisyys
 
 ## a)
