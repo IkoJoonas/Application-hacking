@@ -28,23 +28,23 @@ CPU: 2
 
 OWASP: OWASP Top 10: https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 
--
--
+-Yleistä on URL manipulointi ja admin-sivujen selaaminen ilman asianmukaista autentikointia
+-Suojaa palvelinpuolella, älä asiakkaalla
 
 Karvinen 2023: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
 
--
--
+-Ffuf on joohoi:n kehittämä webb-fuzzing-työkalu
+-Pystyy fuzzaamaan muutakin kuin hakemistoja, kuten parametrejä ja HTTP-otsikoita
 
 PortSwigger: https://portswigger.net/web-security/access-control
 
--
--
+-Pääsynhallinta on rajoitusten soveltamista siihen,vkuka saa tehdä mitäkin tai käyttää mitä resursseja
+-Voidaan estää auditoimalla ja testaamalla pääsynhallintaa perusteellisesti varmistaaksi, että kaikki toimii suunnitellulla tavalla.
 
 Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ 
 
--
--
+-Raportointi tarkoittaa, että kerrot täsmällisesti mitä teit, ja mitä sitten tapahtui.
+-Toistettavuus, täsmällisyys
 
 ## a)
 
@@ -115,3 +115,18 @@ Kirjauduin uudestaan sivulle ja kokeilin olinko saanut korjattua haavoittuvuuden
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_14_36_56" src="https://github.com/user-attachments/assets/fa79b909-3d92-44a2-925e-cd7620cde521" />
 
 Korjaaminen oli onnistunut.
+
+## Lähteet
+
+OWASP: OWASP Top 10: https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+
+Karvinen 2023: https://terokarvinen.com/2023/fuzz-urls-find-hidden-directories/
+
+PortSwigger: https://portswigger.net/web-security/access-control
+
+Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/ 
+
+PortSwigger: https://portswigger.net/web-security/sql-injection/union-attacks
+
+Karvinen 2024: https://terokarvinen.com/hack-n-fix/
+
