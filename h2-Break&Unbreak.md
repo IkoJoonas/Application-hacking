@@ -92,7 +92,7 @@ Lisäämällä wp-admin urlin loppuun sain ensimmäisen lipun näkyville.
 
 <img width="1280" height="800" alt="VirtualBox_Debian_19_01_2026_18_17_14" src="https://github.com/user-attachments/assets/cf903f08-2b67-4ac9-b6da-32f0100e0a2d" />
 
-Versionhallintaan liittyvä sivu löytyi, kun lisäsi .git/config urlin loppuun. Tämä paljasti viimeisin tarvittavan lipun.
+Versionhallintaan liittyvä sivu löytyi, kun lisäsi .git/config URLin loppuun. Tämä paljasti viimeisin tarvittavan lipun.
 
 <img width="1280" height="800" alt="VirtualBox_Debian_19_01_2026_18_39_48" src="https://github.com/user-attachments/assets/bc71c37b-ef38-4e10-8d4a-1ce53dc01be0" />
 
