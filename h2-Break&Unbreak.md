@@ -58,3 +58,12 @@ Tämä onnistui ja pääsin admin-sivustolle normaalina käyttäjänä.
 
 ## e)
 
+Haavoittuvuuden korjaamiseksi riitti views.py muokkaaminen lisäämällä koodin loppussa olevalle riville and self.request.user.is_staff .
+
+<img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_14_35_40" src="https://github.com/user-attachments/assets/ce916536-cf44-4b8a-af6e-90c27a1b8a3e" />
+
+Kirjauduin uudestaan sivulle ja kokeilin olinko saanut korjattua haavoittuvuuden estämällä pääsyn admin-sivulle normaalina käyttäjänä.
+
+<img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_14_36_56" src="https://github.com/user-attachments/assets/fa79b909-3d92-44a2-925e-cd7620cde521" />
+
+Korjaaminen oli onnistunut.
