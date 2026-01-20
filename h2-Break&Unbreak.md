@@ -68,7 +68,9 @@ Korjasin haavoittuvuuden koodista: sql rivin lopun muotoon :pin;" ja res rivin l
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_13_26_53" src="https://github.com/user-attachments/assets/20f27e34-1c38-4322-a8b0-333985591b9e" />
 
+
 Kokeilin pystyinkö toistamaan aiemmin toimineen haavoittuvuuden.
+
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_13_21_10" src="https://github.com/user-attachments/assets/415d68d7-44a1-4ba3-807f-4f822a90e5c1" />
 
