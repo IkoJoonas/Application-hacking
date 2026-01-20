@@ -44,3 +44,17 @@ Versionhallintaan liittyvä sivu löytyi, kun lisäsi .git/config urlin loppuun.
 
 <img width="1280" height="800" alt="VirtualBox_Debian_19_01_2026_18_39_48" src="https://github.com/user-attachments/assets/bc71c37b-ef38-4e10-8d4a-1ce53dc01be0" />
 
+## d)
+
+Käynnistin tehtävän verkkosivun ja aloitin kokeilemalla yleisimpiä admin-tunnuksia, mutta tuloksetta. Seuraavaksi kokeilin lisäämällä URLin loppuun robots.txt .
+
+<img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_12_03_31" src="https://github.com/user-attachments/assets/7c739174-3da0-4c9e-82e0-d401928a94c1" />
+
+Sivu paljasti piilotetun sivuston admin-console, jota ei ollut näkyvillä verkkosivulla. Kokeilin mennä sivulle, mutta se vei uudelle kirjautumissivulle, josta en myöskään päässyt eteenpäin arvaamalla tunnuksia. Jonkin ajan kuluttua päätin testata miten kävisi, jos teen sivulle tunnukset ja kirjauduttua laitan URLin loppuun löytämäni admin-console.
+
+<img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_12_42_23" src="https://github.com/user-attachments/assets/a7b281b4-4100-4cbe-a93c-9fafb99e9eb7" />
+
+Tämä onnistui ja pääsin admin-sivustolle normaalina käyttäjänä.
+
+## e)
+
