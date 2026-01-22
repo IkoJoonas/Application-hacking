@@ -52,11 +52,11 @@ Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 
 ## a)
 
-Aloitin murtautumisen kokeilemalla saanko `type="number"` kohdan tyhjäksi ja value="" kohtaan syötettyä teksin: 'OR+1=1--ADMIN .
+Aloitin murtautumisen kokeilemalla saanko `type="number"` kohdan tyhjäksi ja `value=""` kohtaan syötettyä teksin: `'OR+1=1--ADMIN` .
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_12_27_53" src="https://github.com/user-attachments/assets/d21b9db7-cb80-4930-a000-f9dd9d57e16b" />
 
-Tämä onnistui, mutta se ei kuitenkaan näyttänyt oikeaa salasanaa mitä tehtävässä haettiin. Osaamiseni loppui tähän, joten päätin etsiä netistä lisää apua PortSwiggerin sivuilta. Sieltä löysin SQL injection UNION attacks kohdasta lisää tieto miten UNION hyökkäykset toimivat. Nyt päätin jatkaa samalla lähestymisellä ja muuttaa type="number" kohdan tyhjäksi, mutta muutoksen aikaisempaan value kohtaan latoin value="' UNION SELECT password FROM pins--" .
+Tämä onnistui, mutta se ei kuitenkaan näyttänyt oikeaa salasanaa mitä tehtävässä haettiin. Osaamiseni loppui tähän, joten päätin etsiä netistä lisää apua PortSwiggerin sivuilta. Sieltä löysin SQL injection UNION attacks kohdasta lisää tieto miten UNION hyökkäykset toimivat. Nyt päätin jatkaa samalla lähestymisellä ja muuttaa type="number" kohdan tyhjäksi, mutta muutoksen aikaisempaan "value" kohtaan latoin `value="' UNION SELECT password FROM pins--"`.
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_12_30_23" src="https://github.com/user-attachments/assets/b44401ec-0b3f-438a-8394-4662314fdf00" />
 
@@ -64,7 +64,7 @@ ONNISTUMINEN! Lippu tuli näkyville salasanakohtaan.
 
 ## b)
 
-Korjasin haavoittuvuuden koodista: sql rivin lopun muotoon :pin;" ja res rivin lopun muotoon {"pin": pin})
+Korjasin haavoittuvuuden koodista: "sql" rivin lopun muotoon `:pin;"` ja "res" rivin lopun muotoon `{"pin": pin})`
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_19_01_2026_13_26_53" src="https://github.com/user-attachments/assets/20f27e34-1c38-4322-a8b0-333985591b9e" />
 
@@ -110,7 +110,7 @@ Tämä onnistui ja pääsin admin-sivustolle normaalina käyttäjänä.
 
 ## e)
 
-Haavoittuvuuden korjaamiseksi riitti views.py muokkaaminen lisäämällä koodin loppussa olevalle riville "and self.request.user.is_staff".
+Haavoittuvuuden korjaamiseksi riitti views.py muokkaaminen lisäämällä koodin loppussa olevalle riville `"and self.request.user.is_staff"`.
 
 <img width="1280" height="800" alt="VirtualBox_Kali Linux_20_01_2026_14_35_40" src="https://github.com/user-attachments/assets/ce916536-cf44-4b8a-af6e-90c27a1b8a3e" />
 
