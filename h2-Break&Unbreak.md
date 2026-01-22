@@ -51,6 +51,7 @@ Karvinen 2006: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 -Toistettavuus, täsmällisyys
 
 ## a)
+Tehty Host 1
 
 Aloitin murtautumisen kokeilemalla saanko `type="number"` kohdan tyhjäksi ja `value=""` kohtaan syötettyä teksin: `'OR+1=1--ADMIN` .
 
@@ -63,6 +64,7 @@ Tämä onnistui, mutta se ei kuitenkaan näyttänyt oikeaa salasanaa mitä teht�
 ONNISTUMINEN! Lippu tuli näkyville salasanakohtaan.
 
 ## b)
+Host 1
 
 Korjasin haavoittuvuuden koodista: "sql" rivin lopun muotoon `:pin;"` ja "res" rivin lopun muotoon `{"pin": pin})`
 
@@ -75,6 +77,7 @@ Kokeilin pystyinkö toistamaan aiemmin toimineen haavoittuvuuden.
 Haavoittuvuus ei paljastanut enää lippua.
 
 ## c)
+Host 2
 
 Käynnistin tehtävän verkkosivun ja suoritin komennon: `./ffuf -w common.txt -u http://127.0.0.2:8000/FUZZ`
 
@@ -97,6 +100,7 @@ Versionhallintaan liittyvä sivu löytyi, kun lisäsi .git/config URLin loppuun.
 <img width="1280" height="800" alt="VirtualBox_Debian_19_01_2026_18_39_48" src="https://github.com/user-attachments/assets/bc71c37b-ef38-4e10-8d4a-1ce53dc01be0" />
 
 ## d)
+Host 1
 
 Käynnistin tehtävän verkkosivun ja aloitin kokeilemalla yleisimpiä admin-tunnuksia, mutta tuloksetta. Seuraavaksi kokeilin lisäämällä URLin loppuun robots.txt .
 
@@ -109,6 +113,7 @@ Sivu paljasti piilotetun sivuston admin-console, jota ei ollut näkyvillä verkk
 Tämä onnistui ja pääsin admin-sivustolle normaalina käyttäjänä.
 
 ## e)
+Host 1
 
 Haavoittuvuuden korjaamiseksi riitti views.py muokkaaminen lisäämällä koodin loppussa olevalle riville `"and self.request.user.is_staff"`.
 
