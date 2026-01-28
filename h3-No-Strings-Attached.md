@@ -14,7 +14,9 @@ CPU: 2
 
 ## a)
 
-Aloitin tehtävän lataamalla ezbin-challenges.zip tiedoston Teron sivuilta. Latauksen jälkeen purin kansion.
+Aloitin tehtävän lataamalla ezbin-challenges.zip tiedoston Teron sivuilta (https://terokarvinen.com/application-hacking/). 
+
+Latauksen jälkeen purin kansion.
 
 Menin kansiossa passtr sisälle ja suoritin komennon `strings passtr`
 
@@ -59,3 +61,8 @@ Suoritin komennon `strings packd` uudestaan ja nyt huomasin eron ensimmäiseen k
 Kokeilin uutta salasanaa ja se näytti olevan oikea.
 
 <img width="924" height="165" alt="packvika" src="https://github.com/user-attachments/assets/2641fa1f-5790-4691-940b-e3a42a3b3a16" />
+
+## Lähteet
+
+UPX: https://upx.github.io/
+https://terokarvinen.com/application-hacking/
