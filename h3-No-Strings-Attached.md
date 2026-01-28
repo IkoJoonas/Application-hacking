@@ -84,6 +84,8 @@ Kokeilin uutta salasanaa ja se näytti olevan oikea.
 
 ## Lähteet
 
-UPX: https://upx.github.io/
+- UPX: https://upx.github.io/
 
-https://terokarvinen.com/application-hacking/
+- https://terokarvinen.com/application-hacking/
+
+- b)-kohdassa käytetty tekoäly: https://chatgpt.com/
