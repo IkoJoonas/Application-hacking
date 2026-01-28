@@ -36,7 +36,7 @@ Päädyin yksinkertaiseen ratkaisuun ja muutin koodia seuraavasti:
 
 <img width="883" height="693" alt="passtr3" src="https://github.com/user-attachments/assets/4b50446a-b629-45ce-81ba-11dbdad9a22d" />
 
-Kooi
+Koodissa salasanaa ei ole suoraan tallennettu, vaan se on luotu neljästä osasta
 
 ## c)
 
