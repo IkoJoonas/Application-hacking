@@ -41,3 +41,7 @@ Asennuksen jälkeen muutin tiedoston takaisin alkuperäiseen muotoon komennolla 
 Suoritin komennon `strings packd` uudestaan ja nyt huomasin eron ensimmäiseen kertaan. Olin saanut pidemmän salasanan näkyville tulosteessa.
 
 <img width="209" height="56" alt="pack4" src="https://github.com/user-attachments/assets/e3ca5579-6f82-461e-a65c-1ae177e1cb5b" />
+
+Kokeilin uutta salasanaa ja se näytti olevan oikea.
+
+<img width="924" height="165" alt="packvika" src="https://github.com/user-attachments/assets/2641fa1f-5790-4691-940b-e3a42a3b3a16" />
