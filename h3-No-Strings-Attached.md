@@ -32,11 +32,24 @@ Salasana toimi ja myös lippu tuli näkyville.
 
 Kysyin tekoälyltä apua miten koodi saataisiin obfuskoitua sellaiseen muotoon, että salasanaa olisi vaikeampi löytää ajettaessa `string` komento.
 
-Päädyin yksinkertaiseen ratkaisuun ja muutin koodia seuraavasti:
+Päädyin yksinkertaiseen ratkaisuun ja muutin koodia seuraavanlaiseksi:
 
 <img width="883" height="693" alt="passtr3" src="https://github.com/user-attachments/assets/4b50446a-b629-45ce-81ba-11dbdad9a22d" />
 
-Koodissa salasanaa ei ole suoraan tallennettu, vaan se on luotu neljästä osasta
+Koodissa salasanaa ei ole suoraan tallennettu, vaan se on luotu neljästä osasta.
+
+<img width="278" height="87" alt="passtr3 1" src="https://github.com/user-attachments/assets/1471c348-fc51-41ea-858a-81ee152ab8c4" />
+
+Seuraavaksi osat yhdistetään `strcpy` ja `strcat` funkioilla luomaan yhtenäinen salasana.
+
+<img width="331" height="73" alt="passtr3 2" src="https://github.com/user-attachments/assets/8621a407-e798-4cdb-87b0-b8dd10ffcaa7" />
+
+Muutoksien jälkeen ajoin komennon `gcc -o passtr passtr.c`
+
+Kokeilin näkyykö salasana selkeästi komennon `strings passtr` tulosteessa.
+
+<img width="894" height="512" alt="passtr4" src="https://github.com/user-attachments/assets/e890a187-1a54-4046-b97d-668aa26e243c" />
+
 
 ## c)
 
