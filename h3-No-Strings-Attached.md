@@ -58,11 +58,11 @@ Menin kansiossa packd sisälle ja suoritin komennon `strings packd`
 
 <img width="725" height="38" alt="pack1" src="https://github.com/user-attachments/assets/ff0f9846-9c94-47d2-9ac1-08f82576fe57" />
 
-Sain näkyville `piilos-An` salasanan ja päätin kokeilla tätä samalla tavalla, kuin a-kohdassa.
+Sain näkyville `piilos-An` salasanan ja päätin kokeilla tätä samalla tavalla, kuin a)-kohdassa.
 
 <img width="720" height="168" alt="pack2 0" src="https://github.com/user-attachments/assets/fc17ff0d-fa4d-4aab-bffd-724003d19cd9" />
 
-Salasana ei jostais syystä toiminutkaan, joten päätin jatkaa strings-komennon tulosteen tarkastelemista.
+Salasana ei jostais syystä toiminutkaan, joten päätin jatkaa `strings`-komennon tulosteen tarkastelemista.
 
 Huomasin inffo kohdan.
 
