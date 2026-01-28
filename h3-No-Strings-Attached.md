@@ -40,7 +40,7 @@ Koodissa salasanaa ei ole suoraan tallennettu, vaan se on luotu neljästä osast
 
 <img width="278" height="87" alt="passtr3 1" src="https://github.com/user-attachments/assets/1471c348-fc51-41ea-858a-81ee152ab8c4" />
 
-Seuraavaksi osat yhdistetään `strcpy` ja `strcat` funkioilla luomaan yhtenäinen salasana.
+Osat yhdistetään `strcpy` ja `strcat` funkioilla luomaan yhtenäinen salasana.
 
 <img width="331" height="73" alt="passtr3 2" src="https://github.com/user-attachments/assets/8621a407-e798-4cdb-87b0-b8dd10ffcaa7" />
 
