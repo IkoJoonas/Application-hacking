@@ -38,3 +38,6 @@ Asensin UPX:n komennolla `sudo apt install upx-ucl`
 
 Asennuksen jälkeen muutin tiedoston takaisin alkuperäiseen muotoon komennolla `upx -d packd`
 
+Suoritin komennon `strings packd` uudestaan ja nyt huomasin eron ensimmäiseen kertaan. Olin saanut pidemmän salasanan näkyville tulosteessa.
+
+<img width="209" height="56" alt="pack4" src="https://github.com/user-attachments/assets/e3ca5579-6f82-461e-a65c-1ae177e1cb5b" />
