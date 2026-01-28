@@ -50,6 +50,7 @@ Kokeilin näkyykö salasana selkeästi komennon `strings passtr` tulosteessa.
 
 <img width="894" height="512" alt="passtr4" src="https://github.com/user-attachments/assets/e890a187-1a54-4046-b97d-668aa26e243c" />
 
+Salasana oli nytten vaikeammin erotettavissa.
 
 ## c)
 
