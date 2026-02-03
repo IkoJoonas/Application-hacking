@@ -50,7 +50,7 @@ Aloitin samanlaisella lähestymistavalla kuin b) kohdassa.
 
 <img width="1282" height="763" alt="c)1" src="https://github.com/user-attachments/assets/069045f7-656c-4817-81d2-380050c987b6" />
 
-Mietin, että tässä pitää jollain tavalla muokata if lauseketta. Klikkasin sitä ja `Listing` kohdassa korostui kohta:
+Mietin, että tässä pitää jollain tavalla muokata if-lauseketta. Klikkasin sitä ja `Listing` kohdassa korostui kohta:
 
 <img width="1043" height="21" alt="c)2" src="https://github.com/user-attachments/assets/01378f4f-2d48-43fa-bdbe-a6e77d74f552" />
 
