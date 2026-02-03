@@ -136,6 +136,9 @@ Näyttäisi olevan oikea vastaus. (?)
 
 - Optional: € Eagle and Nancy 2020: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
 
-- [Tehtävät](https://terokarvinen.com/application-hacking/)
+- https://terokarvinen.com/application-hacking/
 
 - [Tekoäly](https://chatgpt.com/)
+
+- Tindall 2023: https://github.com/NoraCodes/crackmes
+
