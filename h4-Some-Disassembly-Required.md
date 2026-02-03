@@ -118,7 +118,7 @@ Nyt toimi :)
 
 ## f) Nora crackme02
 
-Tarkoituksena oli nimetä pääohjelman muuttujat käänteismallinnetusta binääristä, selittää ohjelman toimita ja ratkaista binääri.
+Tarkoituksena oli nimetä pääohjelman muuttujat käänteismallinnetusta binääristä, selittää ohjelman toiminta ja ratkaista binääri.
 
 Loin tiedoston ja tein sille projektin Ghidraan. Menin pääfunktioon.
 
