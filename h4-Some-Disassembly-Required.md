@@ -26,4 +26,5 @@ Aloitin Ghidran asentamisen käyttämällä `sudo apt install openjdk-21-jdk` ko
 
 Tarkoituksena oli käänteismallintaa packd-binääri C-kielelle Ghidran avulla, etsiä pääohjelma, antaa muuttujille kuvaavat nimet, selittää ohjelman toiminta ja ratkaista binääri ilman, että katsoo alkuperäistä lähdekoodia.
 
-Avasin Ghidran ja loin uuden projektin, jonne importtasin packd tiedoston ja auto analysoin sen. Aloitin menemällä `Symbol Tree` <img width="224" height="172" alt="b)1" src="https://github.com/user-attachments/assets/bc2ffd00-3d3c-40d5-9805-621f836bab17" />
+Avasin Ghidran ja loin uuden projektin, jonne importtasin packd tiedoston ja auto analysoin sen. Aloitin menemällä `Symbol Tree` kohtaan <img width="224" height="172" alt="b)1" src="https://github.com/user-attachments/assets/bc2ffd00-3d3c-40d5-9805-621f836bab17" /> josta valitsin funktiot ja niistä `main` jolloin aukesi näkymä  <img width="1053" height="570" alt="b)2" src="https://github.com/user-attachments/assets/dc7cd722-c27b-4730-a0eb-139e26d32c12" />
+
