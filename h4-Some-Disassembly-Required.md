@@ -32,3 +32,7 @@ Avasin Ghidran ja loin uuden projektin, jonne importtasin packd tiedoston ja aut
 
 aukesi näkymä  <img width="1053" height="570" alt="b)2" src="https://github.com/user-attachments/assets/dc7cd722-c27b-4730-a0eb-139e26d32c12" />
 
+`int iVarl` on käyttäjän syöte ja `char local_28` on tulos jota verrataan oikeaan salasanaa, joten nimesin kohdat seuraavanlaisesti.
+
+<img width="159" height="47" alt="b)3" src="https://github.com/user-attachments/assets/2a147666-d16f-4777-80d5-9a80f990bfa2" />
+
