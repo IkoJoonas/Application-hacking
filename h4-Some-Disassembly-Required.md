@@ -18,7 +18,7 @@ Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
 
 - Ghidra on reverse engineering työkalu
 
-- Ratkaisee picoCTF haasteen
+- Ratkaisee picoCTF haasteen videossa
 
 ## a) Install Ghidra
 
