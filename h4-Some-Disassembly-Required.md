@@ -36,3 +36,17 @@ aukesi näkymä  <img width="1053" height="570" alt="b)2" src="https://github.co
 
 <img width="159" height="47" alt="b)3" src="https://github.com/user-attachments/assets/2a147666-d16f-4777-80d5-9a80f990bfa2" />
 
+Ohjelma tulostaa tekstin `What's  the password?` jonka jälkeen käyttäjä syöttää salasanan, jota `input = strcmp` verrataan onko käyttäjän antama salasana sama mikä on määritetty.
+
+## c)
+
+Tarkoituksena oli muokata passtr-binääri siten, että se hyväksyy kaikki salasanat paitsi oikean ja sen jälkeen osoittaa, että ohjelma toimii.
+
+Aloitin samanlaisella lähestymistavalla kuin b) kohdassa.
+
+<img width="1282" height="763" alt="c)1" src="https://github.com/user-attachments/assets/069045f7-656c-4817-81d2-380050c987b6" />
+
+Mietin, että tässä pitää jollain tavalla muokata if lauseketta. Klikkasin sitä ja `Listing` kohdassa korostui kohta:
+
+<img width="1043" height="21" alt="c)2" src="https://github.com/user-attachments/assets/01378f4f-2d48-43fa-bdbe-a6e77d74f552" />
+
