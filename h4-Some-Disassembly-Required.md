@@ -129,3 +129,9 @@ Luulen, että ymmärsin ohjelman toiminnan jotenkin itse eli salasana ei olekkaa
 <img width="483" height="44" alt="f)3" src="https://github.com/user-attachments/assets/34a96b21-9a28-476b-9a24-142a023da4a3" />
 
 Näyttäisi olevan oikea vastaus. (?)
+
+## Lähteet
+
+-Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
+
+-Optional: € Eagle and Nancy 2020: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
