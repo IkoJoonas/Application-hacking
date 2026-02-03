@@ -132,6 +132,6 @@ Näyttäisi olevan oikea vastaus. (?)
 
 ## Lähteet
 
--Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
+- Hammond 2022: https://www.youtube.com/watch?v=oTD_ki86c9I
 
--Optional: € Eagle and Nancy 2020: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
+- Optional: € Eagle and Nancy 2020: https://learning.oreilly.com/library/view/the-ghidra-book/9781098125684/xhtml/ch02.xhtml#ch02lev29
