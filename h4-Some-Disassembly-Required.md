@@ -40,7 +40,7 @@ aukesi näkymä:  <img width="1053" height="570" alt="b)2" src="https://github.c
 
 <img width="159" height="47" alt="b)3" src="https://github.com/user-attachments/assets/2a147666-d16f-4777-80d5-9a80f990bfa2" />
 
-Ohjelma tulostaa tekstin `What's  the password?` jonka jälkeen käyttäjä syöttää salasanan, jota `input = strcmp` vertaa onko käyttäjän antama salasana sama mikä on määritetty. Ratkaisu salasana on `piilos-AnAnAs`.
+Ohjelma tulostaa tekstin `What's  the password?` jonka jälkeen käyttäjä syöttää salasanan, jota `input = strcmp` vertaa onko käyttäjän antama salasana sama mikä on määritetty. Ratkaisun salasana on `piilos-AnAnAs`.
 
 ## c) If backwards
 
