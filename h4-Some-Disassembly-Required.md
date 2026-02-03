@@ -17,3 +17,5 @@ CPU: 2
 -
 
 ## a) 
+
+Aloitin Ghidran asentamisen käyttämällä `sudo apt install openjdk-21-jdk` komentoa. Tämän jälkeen menin [Ghidran Github(https://github.com/NationalSecurityAgency/ghidra/releases)] sivulle ja latasin uusimman version.
