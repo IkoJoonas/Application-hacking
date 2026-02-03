@@ -142,3 +142,4 @@ Näyttäisi olevan oikea vastaus. (?)
 
 - Tindall 2023: https://github.com/NoraCodes/crackmes
 
+- Ghidra: https://github.com/NationalSecurityAgency/ghidra
