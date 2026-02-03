@@ -68,6 +68,8 @@ Testasin ensin syöttämällä väärän salasanan ja sen jälkeen oikean.
 
 <img width="741" height="251" alt="c)4" src="https://github.com/user-attachments/assets/2b47f2eb-f154-4a00-9fe0-9d56dfa8b1d9" />
 
+Toimi.
+
 ## d) Nora CrackMe
 
 Kloonasin Nora CrackMe repon itselleni komennolla `git clone`.
