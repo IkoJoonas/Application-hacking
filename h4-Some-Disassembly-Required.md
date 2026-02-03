@@ -32,7 +32,7 @@ Avasin Ghidran ja loin uuden projektin, jonne importtasin packd tiedoston ja aut
 
 aukesi näkymä  <img width="1053" height="570" alt="b)2" src="https://github.com/user-attachments/assets/dc7cd722-c27b-4730-a0eb-139e26d32c12" />
 
-`int iVarl` on käyttäjän syöte ja `char local_28` on tulos jota verrataan oikeaan salasanaa, joten nimesin kohdat seuraavanlaisesti.
+`int iVarl` on käyttäjän syöte ja `char local_28` on tulos jota verrataan oikeaan salasanaa, joten nimesin kohdat seuraavanlaisesti:
 
 <img width="159" height="47" alt="b)3" src="https://github.com/user-attachments/assets/2a147666-d16f-4777-80d5-9a80f990bfa2" />
 
@@ -118,8 +118,13 @@ Loin tiedoston ja tein sille projektin Ghidraan. Menin pääfunktioon.
 
 <img width="417" height="498" alt="f)1 0" src="https://github.com/user-attachments/assets/5a7d22d8-d13d-42fd-b2a3-c77c2a85c3ba" />
 
-Nimesin `char`, `undefined8` ja `long` kohdat seuraavanlaisesti.
+Nimesin `char`, `undefined8` ja `long` kohdat seuraavanlaisesti:
 
 <img width="169" height="65" alt="f)2" src="https://github.com/user-attachments/assets/6d89fecd-756c-4bb2-a20a-8349a9858bf3" />
 
 Tämä tosin ei ollutkaan ihan yhtä helppoa, kuin aiemmin vaan kysyin tekoälyltä apua.
+
+Luulen, että ymmärsin ohjelman toiminnan jotenkin itse eli salasana ei olekkaan `password1` vaan se on pelkästään `o`? Päätin kokeilla tätä.
+
+<img width="483" height="44" alt="f)3" src="https://github.com/user-attachments/assets/34a96b21-9a28-476b-9a24-142a023da4a3" />
+
