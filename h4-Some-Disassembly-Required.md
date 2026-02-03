@@ -50,3 +50,4 @@ Mietin, että tässä pitää jollain tavalla muokata if lauseketta. Klikkasin s
 
 <img width="1043" height="21" alt="c)2" src="https://github.com/user-attachments/assets/01378f4f-2d48-43fa-bdbe-a6e77d74f552" />
 
+Aloitin puoli vahingossa ratkaisemaan vasemmalta oikealle ja päätin googlettaa `JNZ` merkityksen, eli Jump-Not-Zero siirtää ohjelman suorituksen toiseen kohtaan, jos edellisen laskun tulos ei ole nolla. Tämän vastakohta on `ZN` eli Jump-Zero
