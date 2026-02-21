@@ -62,3 +62,10 @@ Ohjelman rivin 18. viittaa rivin 14. `Null` kohtaan. Tein tähän muutoksen vaih
 
 <img width="744" height="509" alt="lab1valmis" src="https://github.com/user-attachments/assets/ed17eb38-30ca-4bec-bb70-f45b28d54374" />
 
+Tallensin muutokset ja kokeilin ajaa uudestaan.
+
+<img width="685" height="57" alt="lab1syöte" src="https://github.com/user-attachments/assets/5b98cfe0-07c2-40c3-8a95-b141cf6972c4" />
+
+Näyttäisi toimivan ja "Segmentation fault" poistui.
+
+`Fixed` korjaus toimii, koska alkuperäinen `NULL` oli pelkkä merkkijonoliteraali eikä oikea NULL-osoitin, jolloin ohjelma ei toiminut odotetulla tavalla. Muokkaamalla varmistin, että osoitin osoittaa tunnettuun muistialueeseen, jolloin print_scrambled funktio pystyy käymään merkkijonon läpi.
