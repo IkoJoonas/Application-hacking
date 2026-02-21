@@ -100,4 +100,4 @@ Salasana oli oikein ja sain lipun näkyville.
 
 Terokarvinen.com. Application Hacking: https://terokarvinen.com/application-hacking/#laksyt
 
-Käytin Copilotia koodin ymmärtämiseen
+Käytin Copilotia koodin ymmärtämiseen ja korjaamiseen
