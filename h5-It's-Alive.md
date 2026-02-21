@@ -36,6 +36,8 @@ Käytin komentoja: `break main`,
 
 ja `step` 
 
+<img width="785" height="56" alt="lab05" src="https://github.com/user-attachments/assets/dd6c401b-de14-497a-8d1d-c9e36cce32c2" />
+
 Numeroiden tulostus sekoaa 5. jälkeen
 
 Korjaaminen oli onneksi helppo, muutin koodista kohtaa `for (int = 0; i <= size; i++)` muotoon `for (int = 0; i < size; i++)`
