@@ -38,4 +38,6 @@ ja `print arr[]` komentoja tutkimisessa.
 
 <img width="177" height="220" alt="lab06" src="https://github.com/user-attachments/assets/ad0d2195-a6df-4e4a-9627-33f84ad20071" />
 
-Jostain syystä numeroiden tulostus sekosi 5. jälkeen
+Numeroiden tulostus sekosi 5. jälkeen
+
+Korjaaminen oli onneksi helppo, muutin koodista kohtaa `for (int = 0; i <= size; i++)` muotoon `for (int = 0; i < size; i++)`
