@@ -95,3 +95,9 @@ Tämän tulosteen laitoin myös kokonaan Copilottiin, joka teki kaikki analysoin
 <img width="634" height="163" alt="lab2 4" src="https://github.com/user-attachments/assets/f934a3d6-2300-462c-834d-a146b47fedff" />
 
 Salasana oli oikein ja sain lipun näkyville.
+
+## Lähteet
+
+Terokarvinen.com. Application Hacking: https://terokarvinen.com/application-hacking/#laksyt
+
+Käytin Copilotia koodin ymmärtämiseen
