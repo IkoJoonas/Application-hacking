@@ -16,9 +16,13 @@ CPU: 2
 
 Aloitin lataamalla Lab0 Moodlesta ja purin kansion.
 
+Ajoin ohjelman.
+
+<img width="697" height="125" alt="lab0tokavika" src="https://github.com/user-attachments/assets/6501db48-2bdb-4e12-bbbb-24f237c3f78a" />
+
 Suoritin komennon `gcc buggy_program.c -g  -Wall -Werror -o main` ja aloin tutkimaan koodia GNU Debuggerissa.
 
-Käytin `break main`, 
+Käytin komentoja: `break main`, 
 
 <img width="498" height="41" alt="lab02" src="https://github.com/user-attachments/assets/d6ce85f5-d39e-4b62-af79-fea3654d1537" />
 
@@ -30,14 +34,14 @@ Käytin `break main`,
 
 <img width="550" height="39" alt="lab04" src="https://github.com/user-attachments/assets/255c91cf-6e0c-4e14-9740-4e161cd76266" />
 
-`step` 
+ja `step` 
 
-<img width="785" height="56" alt="lab05" src="https://github.com/user-attachments/assets/d56ae589-85cb-4e8a-bff5-e3af388c7b00" />
-
-ja `print arr[]` komentoja tutkimisessa. 
-
-<img width="177" height="220" alt="lab06" src="https://github.com/user-attachments/assets/ad0d2195-a6df-4e4a-9627-33f84ad20071" />
-
-Numeroiden tulostus sekosi 5. jälkeen
+Numeroiden tulostus sekoaa 5. jälkeen
 
 Korjaaminen oli onneksi helppo, muutin koodista kohtaa `for (int = 0; i <= size; i++)` muotoon `for (int = 0; i < size; i++)`
+
+Tallensin muutokset ja ajoin ohjelman uudestaan.
+
+<img width="701" height="113" alt="lab0vika" src="https://github.com/user-attachments/assets/f88a039e-f04f-425e-9a50-da3299ab1824" />
+
+Nyt toimii oikein.
