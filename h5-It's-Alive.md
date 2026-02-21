@@ -71,3 +71,27 @@ Tallensin muutokset ja kokeilin ajaa uudestaan.
 Näyttäisi toimivan ja "Segmentation fault" poistui.
 
 `Fixed` korjaus toimii, koska alkuperäinen `NULL` oli pelkkä merkkijonoliteraali eikä oikea NULL-osoitin, jolloin ohjelma ei toiminut odotetulla tavalla. Muokkaamalla varmistin, että osoitin osoittaa tunnettuun muistialueeseen, jolloin print_scrambled funktio pystyy käymään merkkijonon läpi.
+
+## Lab2 Salasanan ja lipun löytäminen
+
+Aloitin lähestymisen käyttämällä komentoa `info functions`.
+
+<img width="401" height="362" alt="lab2 0" src="https://github.com/user-attachments/assets/356dae28-ae9f-4323-9709-1f754f27f674" />
+
+Huomasin kohdan `check_password`, tästä ajoin komennon `disas check_password`.
+
+<img width="493" height="73" alt="lab2 1" src="https://github.com/user-attachments/assets/ee4d458a-3b8e-441f-8176-55690f21a7ef" />
+
+Tämä ei auttanut eteenpäin, koska oli tyhjä. Seuraavaksi kokeilin `disas main`.
+
+<img width="691" height="695" alt="lab2 2" src="https://github.com/user-attachments/assets/d90c10b7-c83a-402e-a57a-fc3e37491a10" />
+
+En saanut tulosteesta juurikaan koppia, joten laitoin kaiken Copilottiin. Neuvona oli käyttää komentoa `disas mAsdf3a`.
+
+<img width="616" height="671" alt="lab2 3" src="https://github.com/user-attachments/assets/0f0de0cf-fe06-4185-a450-0c9354f0b198" />
+
+Tämän tulosteen laitoin myös kokonaan Copilottiin, joka teki kaikki analysoinnit ja salasananmuutoksen antamalla vastaukseksi `dgOMm-x1`. Kokeilin tätä.
+
+<img width="634" height="163" alt="lab2 4" src="https://github.com/user-attachments/assets/f934a3d6-2300-462c-834d-a146b47fedff" />
+
+Salasana oli oikein ja sain lipun näkyville.
