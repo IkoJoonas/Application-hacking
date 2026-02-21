@@ -58,7 +58,8 @@ Kiinnitin huomiota tähän.
 
 <img width="478" height="126" alt="lab1 1" src="https://github.com/user-attachments/assets/2dcbf342-fed0-49f5-a457-072fcef1736b" />
 
-Ohjelman rivin 18. viittaa rivin 14. `Null` kohtaan. Tein tähän muutoksen vaihtamalla `Null` tilalle `fixed`.
+Ohjelman rivin 18. viittaa rivin 14. `Null` kohtaan. Tein tähän muutoksen vaihtamalla `Null` tilalle `fixed`. <img width="297" height="25" alt="lab1null" src="https://github.com/user-attachments/assets/2db675b3-bb58-4f1a-867a-055a8ec0e7ae" />
+
 
 <img width="744" height="509" alt="lab1valmis" src="https://github.com/user-attachments/assets/ed17eb38-30ca-4bec-bb70-f45b28d54374" />
 
