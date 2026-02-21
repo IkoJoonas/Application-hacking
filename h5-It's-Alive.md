@@ -47,3 +47,18 @@ Tallensin muutokset ja ajoin ohjelman uudestaan.
 <img width="701" height="113" alt="lab0vika" src="https://github.com/user-attachments/assets/f88a039e-f04f-425e-9a50-da3299ab1824" />
 
 Nyt toimii oikein.
+
+## Lab1
+
+Aloitin samalla lähestymisellä, kuin Lab0
+
+<img width="631" height="681" alt="lab1" src="https://github.com/user-attachments/assets/9f56fcf6-27d3-455c-a3cd-f9b4679308c7" />
+
+Kiinnitin huomiota tähän.
+
+<img width="478" height="126" alt="lab1 1" src="https://github.com/user-attachments/assets/2dcbf342-fed0-49f5-a457-072fcef1736b" />
+
+Ohjelman rivin 18. viittaa rivin 14. `Null` kohtaan. Tein tähän muutoksen vaihtamalla `Null` tilalle `fixed`.
+
+<img width="744" height="509" alt="lab1valmis" src="https://github.com/user-attachments/assets/ed17eb38-30ca-4bec-bb70-f45b28d54374" />
+
