@@ -54,3 +54,4 @@ Samalla menetelmäälä kuten 3. kohdassa.
 
 <img width="767" height="70" alt="rootfs imagefile" src="https://github.com/user-attachments/assets/5ef110a0-e736-49cd-9316-21b599110a7b" />
 
+Koitin
