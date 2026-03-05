@@ -32,6 +32,8 @@ CPU: 2
 
 ## Solve CryptoPals Set 1 challenges
 
+Oma ohjelmointikokemukseni on rajallinen niimpä hyödynsin Copilottia työkaluna koodin tuottamiseen. Tuotettu koodi on käyty läpi ja muokattu tehtävien tavoitteiden mukaisesti.
+
 ## a) 1. Convert hex to base64
 
 Tehtävänä oli muuntaa heksadesimaaliluku base64-muotoon.
