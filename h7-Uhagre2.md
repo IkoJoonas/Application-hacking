@@ -22,7 +22,9 @@ CPU: 2
 
 - 1.7 Large Numbers: Vertailut auttavat ymmärtämään, miksi riittävän pitkät salausavaimet tekevät murtamisesta käytännössä mahdotonta.
 
+-Karvinen 2024: Python Basics for Hackers
 
+- 
 
 
 
@@ -88,4 +90,4 @@ Tuloste:
 
 1.7 Large Numbers
 
-- Karvinen 2024: https://terokarvinen.com/python-for-hackers/
+- Karvinen 2024: Python Basics for Hackers: https://terokarvinen.com/python-for-hackers/
