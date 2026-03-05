@@ -24,7 +24,9 @@ CPU: 2
 
 -Karvinen 2024: Python Basics for Hackers
 
-- 
+- `ETAOIN SHRDLU` englannin kielen yleisimmät kirjaimet
+
+- `AINTE SLOUK` suomen kielen yleisimmät kirjaimet
 
 
 
