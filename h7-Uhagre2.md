@@ -71,8 +71,11 @@ Tuloste:
 - Crypto Challenge Set 1: https://cryptopals.com/sets/1
 
 - € Schneier 2015: Applied Cryptography, 20ed: Chapter 1: Foundations: https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec001
+
 1.1 Terminology ("Historical Terms" to the end)
+
 1.4 Simple XOR
+
 1.7 Large Numbers
 
 - Karvinen 2024: https://terokarvinen.com/python-for-hackers/
