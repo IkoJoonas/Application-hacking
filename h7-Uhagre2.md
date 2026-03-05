@@ -93,3 +93,5 @@ Tuloste:
 1.7 Large Numbers
 
 - Karvinen 2024: Python Basics for Hackers: https://terokarvinen.com/python-for-hackers/
+
+-Copilot
