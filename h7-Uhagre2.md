@@ -14,7 +14,17 @@ CPU: 2
 
 ## x)
 
--
+-Schneier 2015: Applied Cryptography, 20ed: Chapter 1: Foundations:
+
+- 1.1 Terminology: Esitellään salausalan peruskäsitteet; salaus, avaimet, algoritmit ja viestit. Käsitellään myös historiallisia termejä, Caesar-salaus ja Vigenere-salaus, jotka ovat osa salauksen kehityshistoriaa.
+
+- 1.4 Simple XOR: Yksinkertainen XOR-operaatio on keskeinen yksinkertaisessa salauksessa. Symmetrinen operaatio, joka muuttaa bittijonon toisen bittijonon avulla.
+
+- 1.7 Large Numbers: Vertailut auttavat ymmärtämään, miksi riittävän pitkät salausavaimet tekevät murtamisesta käytännössä mahdotonta.
+
+
+
+
 
 ## Solve CryptoPals Set 1 challenges
 
