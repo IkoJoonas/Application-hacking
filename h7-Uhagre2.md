@@ -60,3 +60,9 @@ Tehtävänä oli löytää annetusta tiedostosta rivi, joka on salattu XOR-salau
 
 Koodi:
 
+<img width="928" height="850" alt="h7d" src="https://github.com/user-attachments/assets/147125da-1a18-47f1-b6ac-3e3cc48f77a8" />
+
+Tuloste:
+
+<img width="493" height="48" alt="h7d1" src="https://github.com/user-attachments/assets/31a7d9d1-4a27-457e-b29d-f1f5b96c650e" />
+
